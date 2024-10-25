@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beky-251
+- 👋 Hi, I’m BEREKET BELACHEW
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning computer since
 - 💞️ I’m looking to collaborate on my computer
