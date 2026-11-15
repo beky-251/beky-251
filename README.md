@@ -1,6 +1,10 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,50:123B70,100:38BDF8&height=190&section=header&text=BEREKET%20BELACHEW&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Smart%20Solutions.%20Real%20Impact.&descAlignY=60&descSize=17" width="100%" />
+<div align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Bereket Belachew — Smart Solutions. Real Impact."
+    width="100%"
+  />
+</div>
 
 # Hey, I'm Bereket Belachew 👋
 
