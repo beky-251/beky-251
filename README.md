@@ -1,20 +1,17 @@
-<div align="center">
-  <img
-    src="./assets/profile-banner.png"
-    alt="Bereket Belachew — Smart Solutions. Real Impact."
-    width="100%"
-  />
-</div>
+ <div align="center">
 
-# Hey, I'm Bereket Belachew 👋
+<img src="./assets/profile-banner.png" width="100%" alt="Bereket Belachew — Smart Solutions. Real Impact." />
 
-### Full-Stack Developer | Software Developer | Digital Creator
+# BEREKET BELACHEW
 
-I build modern digital experiences, useful software applications, and technology-driven solutions.
+### Full-Stack Developer | Software Engineer | Digital Creator
 
-I enjoy turning ideas into practical products through clean design, thoughtful engineering, and continuous improvement.
+**Smart Solutions. Real Impact.**
+
+I design and develop modern digital products that solve real-world problems. I enjoy transforming ideas into functional applications through software engineering, creative thinking, and modern technology.
 
 [![GitHub](https://img.shields.io/badge/GitHub-beky--251-181717?style=for-the-badge&logo=github)](https://github.com/beky-251)
+[![Repositories](https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github)](https://github.com/beky-251?tab=repositories)
 
 </div>
 
@@ -22,124 +19,113 @@ I enjoy turning ideas into practical products through clean design, thoughtful e
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate about building real-world software solutions.
-- 💻 Interested in full-stack web and mobile application development.
-- 🎨 Focused on modern UI/UX and clean user experiences.
-- 🛠️ Working with modern JavaScript and TypeScript technologies.
-- 🌍 Building digital solutions with practical applications.
-- 📚 Continuously learning, experimenting, and improving.
+I'm Bereket Belachew, a developer passionate about building useful, modern, and scalable software solutions.
 
-My philosophy:
+My development interests include:
 
-> Technology should solve problems, simplify everyday life, and create meaningful impact.
+- Full-stack web application development.
+- Cross-platform mobile application development.
+- Backend systems and database architecture.
+- Modern UI/UX design.
+- Business-oriented digital solutions.
+- Secure and maintainable software engineering.
 
-## ⚡ Technology & Tools
+I believe great software combines functionality, simplicity, performance, and excellent user experience.
 
-### Frontend Development
+## 🛠️ Technology Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Frontend & Mobile**
 
-### Backend & Database
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Backend & Database**
 
-### Development Tools
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Development Tools**
 
-## 🚀 Featured Projects
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-### 1. Day Converter
-An Ethiopian and Gregorian calendar conversion application.
+## 🚀 Selected Projects
 
-- Ethiopian ↔ Gregorian date conversion.
-- English and Amharic language support.
-- Calendar, history, and reminder features.
+### 01. HabeshaSpot
 
-**Technologies:** React Native, Expo, TypeScript.
+A project focused on helping people discover local businesses through digital technology.
 
-### 2. Habesha Bingo
-A multiplayer bingo application project.
-
-- Room creation and management.
-- Online multiplayer functionality.
-- Supabase-powered backend services.
-
-**Technologies:** React Native, Expo, Supabase.
-
-### 3. HabeshaSpot
-A digital platform project focused on discovering local businesses.
-
+**Focus areas:**
 - Business discovery and search.
-- Interactive map experience.
-- Business submission and approval workflows.
+- Interactive maps.
+- Business submissions and approval workflows.
 
-### 4. ScanMenu
-A digital restaurant menu and ordering platform.
+[Explore Repository →](https://github.com/beky-251/habesha-spot)
 
-- QR-code-based restaurant menus.
-- Multi-restaurant architecture.
-- Online ordering functionality.
+### 02. Portfolio
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase.
+My web development portfolio repository, where I organize and present digital work.
 
-### 5. DER Digital Solution
-A digital solutions and software portfolio platform.
+[Explore Repository →](https://github.com/beky-251/portfolio)
 
-- Modern web development.
-- Project presentation.
-- Digital services and solutions.
+### 03. Aurora House
 
-**Technologies:** Next.js, Supabase.
+A web development project in my public repository collection.
 
----
+[Explore Repository →](https://github.com/beky-251/aurora-house)
 
-## 🎯 My Development Focus
+### Other Development Projects
 
-- Building practical software applications.
-- Developing responsive and accessible interfaces.
-- Creating secure backend integrations.
-- Improving application architecture.
-- Exploring new technologies and development workflows.
+I'm also developing ideas and applications around:
 
-## 📊 GitHub Overview
+- Ethiopian and Gregorian calendar conversion.
+- Multiplayer gaming experiences.
+- QR-based restaurant menus and online ordering.
+- Digital business solutions.
+
+## 🎯 My Engineering Principles
+
+| Principle | My approach |
+|---|---|
+| Simplicity | Build intuitive user experiences |
+| Quality | Write maintainable code |
+| Security | Protect application data |
+| Innovation | Explore practical technologies |
+| Growth | Learn and improve continuously |
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=beky-251&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B18&title_color=38BDF8&icon_color=818CF8&text_color=FFFFFF" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=beky-251&show_icons=true&hide_border=true&theme=tokyonight&bg_color=070B18&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beky-251&layout=compact&theme=tokyonight&hide_border=true&bg_color=070B18&title_color=38BDF8&text_color=FFFFFF" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beky-251&layout=compact&hide_border=true&theme=tokyonight&bg_color=070B18&title_color=38BDF8&text_color=FFFFFF" />
 
-<img src="https://streak-stats.demolab.com?user=beky-251&theme=tokyonight&hide_border=true&background=070B18&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" width="70%" />
+<img width="80%" src="https://streak-stats.demolab.com?user=beky-251&theme=tokyonight&hide_border=true&background=070B18&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
 
 </div>
 
----
+## 🌐 Connect With Me
 
-## 🤝 Let's Connect
+I'm open to connecting with developers, exploring ideas, collaborating on software projects, and building meaningful digital products.
 
-I'm interested in technology, collaboration, software development, and building meaningful digital products.
-
-- **GitHub:** [@beky-251](https://github.com/beky-251)
-- **Repositories:** [Explore my work](https://github.com/beky-251?tab=repositories)
+- GitHub: [@beky-251](https://github.com/beky-251)
+- Projects: [My repositories](https://github.com/beky-251?tab=repositories)
 
 ---
 
 <div align="center">
 
-### 💡 Smart Solutions. Real Impact.
+### SMART SOLUTIONS. REAL IMPACT.
 
-*Building today. Improving tomorrow.*
+**Building ideas into technology.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:123B70,100:070B18&height=100&section=footer" width="100%" />
+*Think. Build. Improve. Repeat.*
 
 </div>
